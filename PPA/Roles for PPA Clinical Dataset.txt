@@ -1,0 +1,17 @@
+Roles for PPA Clinical Dataset
+Me and my project partner do the PPA and we have divided our roles.
+
+Pramod K C (22085342)
+* Coding part
+* Abstract
+3.4 Scalability Tests 
+3.4.1 K-Means Clustering 
+3.4.2 Kolmogorov-Smirnov (KS) Test 
+3.4.4 Autoencoder 
+3.4.5 Conclusion 
+3.5 Privacy Risk Module 
+3.5.1 K-Nearest Neighbor Distance 
+3.5.2 Distance Density 
+3.5.3 Bayesian Privacy Metrics 
+3.5.4 syntactic Privacy Measures
+* Conclusion
